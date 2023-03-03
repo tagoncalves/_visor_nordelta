@@ -1,0 +1,15 @@
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+
+#codeigniter 3
+_app/logs/*
+!_app/logs/index.html
+!_app/logs/.htaccess
+/vendor/
+
+# hcdigital
+/uploads/*
